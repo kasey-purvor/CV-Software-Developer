@@ -1,5 +1,5 @@
 # Kasey Purvor 
- ***Mechanical Engineer seeking to break into software role***
+ ***Mechanical Engineer Seeking to Break into Software Role***
  ___
 [Software Projects](#software-projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Interests](#interests) |
 
