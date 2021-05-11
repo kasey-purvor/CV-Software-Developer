@@ -22,10 +22,10 @@ As a dependable and pragmatic fast learner, I am a confident person who thrives 
 
 ## Skills
 
-> - **Self Starter** - Starting a new engineering role during lockdown, I was unable to undergo training and therefore unable to design the heavily regulated products. With my job in jeopardy I had to prove myself. A year on I had carved myself a new research/designer role where I dealt with all manner of novel problems (where nobody had any experience) and proved myself invaluable, performing many technical analysis and design tasks. ***link here*** 
-> - **Adaptable** - Whether tackling new concepts or familiar problems, I approach everything with the same pragmatism and logic seen throughout my career. 
-> - **Team Player** - Knowing when to take a leadership role, be a motivator or to just ensure you pull your weight - is a well honed skill of mine. Team working is has been a vital part of my life for as long as I can remember, not just in academically or professionally, but in the lifestyle and hobbies I choose. 
-> - **Attention To Detail** - Having worked in an industry where products are designed to within 1/1000th of millimeter and the slightest miscalculation could cause serious injury or worse, an eye for detail is not something I could have survived without. 
+> - **Self Starter** - Starting a new engineering role during lockdown, I was unable to undergo training and therefore unable to design the heavily regulated products. With my job in jeopardy I had to prove myself. A year on I had carved myself a new research/designer role where I dealt with all manner of novel problems (where nobody had any experience) and proved myself invaluable, performing many technical analysis and design tasks. | ***ballistic screens*** |  
+> - **Adaptable** - Whether tackling new concepts or familiar problems, I approach everything with the same pragmatism and logic seen throughout my career. | ***contamination study*** |
+> - **Team Player** - Knowing when to take a leadership role, be a motivator or to just ensure you pull your weight. Team working is has been a vital part of my life for as long as I can remember, not just in academically or professionally, but in the lifestyle and hobbies I choose. | ***group design & make*** | ***grappitude*** |
+> - **Attention To Detail** - Having worked in an industry where products are designed to within 1/1000th of millimeter and the slightest miscalculation could cause serious injury or worse, an eye for detail is not something I could have survived without. | ***safety mechanism*** |
 
 ## Work Experience
 ***(Mechanical Engineer)*** __portfolio link here__
@@ -33,19 +33,19 @@ As a dependable and pragmatic fast learner, I am a confident person who thrives 
 > ### **Servo test Testing Systems LTD** (March 2020 to January 2021) 
 > _Mechanical Design Engineer_ 
 > #### Relevant Skills:
-> - Design as part of a team 
-> - Solo Design 
-> - Research
+> - Design as part of a team | ***safety mechanism*** |
+> - Solo Design | ***saftey screen*** |
+> - Research | ***contamination study*** |
 > - Design to Standards 
-> - Test driven design
+> - Test driven design | ***banjo bolt*** | 
 
 > ### **Overview LTD** (November 2018 to March 2020) 
 > _Mechanical Design Engineer_ 
 > #### Relevant Skills 
 > - Design as part of a team 
+> - Solo Design | ***torque sensor*** |  ***motor test rig*** 
 > - Iterative Design
-> - Numerical Analysis
-> - Making of business cases for new technology purchases
+> - Making of business cases for new technology purchases | ***3d Printer*** | 
 > - Matlab 
 > - Design to Standards 
 
@@ -69,12 +69,12 @@ Technologies & Frameworks Experience:
 #### University of Nottingham (September 2014 - July 2018)
 
 - Mechanical Engineering Integrated Masters (MEng) 2:1 
-- Specialisms in Glass viscometry, Heat-Transfer Thermodynamics, Polymer Engineering and Energy Efficiency for sustainability.  
+- Specialisms in Glass viscometry, Heat-Transfer Thermodynamics, Polymer Engineering and Sustainable Energy Efficiency.  
 
 
 ## Interests
 
-- Computers! Originally spurred on by simply having a PC too slow to play the games I was bought. I found myself learning everything I could about computer hardware. Obsessed with specs, I knew every hardware initialism on the market. Eventually after years of nagging/begging I was allowed to build my own computer from scratch for my gaming exploits. It was probably one of the first SLI dual GPU machines around and I still have it now, 15 years on.
+- Computers! Originally spurred on simply by having a PC too slow to play the games I had. I found myself learning everything I could about computer hardware. Obsessed with specs, I knew every hardware initialism on the market. Eventually after years of nagging/begging I was allowed to build my own computer from scratch for my gaming exploits. It was probably one of the first SLI dual GPU machines around and I still have it now, 15 years on.
 
 - Mountain Sports. I began attending Scouts from age 9 and finished at 16. In that time, I had the privilege of
  accompanying my scout troop on countless trips and expeditions domestically and internationally; to places
