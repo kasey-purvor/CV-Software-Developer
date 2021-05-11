@@ -29,4 +29,8 @@ My most recent employement began during the first lockdown as was challenging fo
 >
 > To design adequate safety screens I would to know 2 properties of the projectiles: mass & velocity. I began by identifying the largest & longest projectile (as this would be  > the worst case) and based my analysis on this. I then studied the ***pressure test safety*** document for a way to model the acceleration (figure 1). Along with the eqautions > of motion (figure 2) I came up with a calculation for determining the escape velocity of the component (figure 3) by the large red arrow. 
 ![ballistic_screen_acceleration](https://user-images.githubusercontent.com/67878899/117819319-56a29700-b261-11eb-84ff-8f0abf544b16.png)
+> With the escape velocity and that projectile mass & velocity known, I then applied the data to the perforation theory of polycarbonate(figure 4). Figure 5 shows the experimental data obtained > with this theory and the red arrow shows where the projectile fits the data. You can see it reccomends a polycarbonate thickness of about 8mm. 
+> ![ballistic_screen_perforation](https://user-images.githubusercontent.com/67878899/117823650-9ec3b880-b265-11eb-9f80-88f68c65f74b.png)
+> With all of this determined I opted to design the screens at 10mm thickness. The design drawing can be seen below. 
+> ![ballistic_screen_drawing](https://user-images.githubusercontent.com/67878899/117826042-c025a400-b267-11eb-9d39-5c214934f35a.jpg)
 
