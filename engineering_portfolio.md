@@ -28,9 +28,27 @@ My most recent employement began during the first lockdown as was challenging fo
 > During testing of a large hydraulic piston, a fluid carrying component failed. The failed component was ejected at speed and punctured the metal ceiling of the workshop. As a > result an investigation into the component was launched (<a> banjo-bolt </a>) and the design of adequate safety screens was comissioned. Both were delagated to me.  
 >
 > To design adequate safety screens I would to know 2 properties of the projectiles: mass & velocity. I began by identifying the largest & longest projectile (as this would be  > the worst case) and based my analysis on this. I then studied the ***pressure test safety*** document for a way to model the acceleration (figure 1). Along with the eqautions > of motion (figure 2) I came up with a calculation for determining the escape velocity of the component (figure 3) by the large red arrow. 
-![ballistic_screen_acceleration](https://user-images.githubusercontent.com/67878899/117819319-56a29700-b261-11eb-84ff-8f0abf544b16.png)
+> 
+> ![ballistic_screen_acceleration](https://user-images.githubusercontent.com/67878899/117819319-56a29700-b261-11eb-84ff-8f0abf544b16.png)
+>
 > With the escape velocity and that projectile mass & velocity known, I then applied the data to the perforation theory of polycarbonate(figure 4). Figure 5 shows the experimental data obtained > with this theory and the red arrow shows where the projectile fits the data. You can see it reccomends a polycarbonate thickness of about 8mm. 
+> 
 > ![ballistic_screen_perforation](https://user-images.githubusercontent.com/67878899/117823650-9ec3b880-b265-11eb-9f80-88f68c65f74b.png)
+> 
 > With all of this determined I opted to design the screens at 10mm thickness. The design drawing can be seen below. 
-> ![ballistic_screen_drawing](https://user-images.githubusercontent.com/67878899/117826042-c025a400-b267-11eb-9d39-5c214934f35a.jpg)
+> 
+> ![ballistic_screen_drawing](https://user-images.githubusercontent.com/67878899/117833509-4d6bf700-b26e-11eb-9e9b-7116ec6adb02.jpg)
+
+___
+## Contamination Study 
+> After some hydraulic pistons were shipped back from our parent company in China with heavily worn seals, further investigation showed there was a mysterious powder contaminant > in the hydraulic fluid (image below). It was wearing away the seals as they moved. I was tasked with determining what the contamination was and where it was coming from.
+> 
+> ![seal_contamination ](https://user-images.githubusercontent.com/67878899/117832715-a38c6a80-b26d-11eb-827e-d2d879ed4e76.jpg)
+> 
+> After some research into microsopy I opted to have a sample analysed by a scanning electron microscope. This would allow me to image the particles and have their elemental > composition determined through spectroscopy. After a trip to Surrey University I had the results of several scans to analyse. You can see the image as well as the spectrographic > imformation of the 4 particles highlighted below. 5 of these scans were performed all with similar results. 
+> 
+> ![seal_contamination_results](https://user-images.githubusercontent.com/67878899/117832919-d171af00-b26d-11eb-82e7-3aec3cc0b70b.png)
+> 
+> The results showed, ignoring trace amounts and anomalous elements, that predominantly there were 3 elements and 2 types of particle. They were silicon, aluminium and oxygen. 
+> With the seals thewmselves made of silicon it was fair to assume this was the source of silicon, leaving aluminium and oxygen. Aluminium oxide (aluminium + oxygen) is a common > grit blasting medium which is a technique used by our parent company in China. We therefore deduced that the pistons had been left exposed while grit blasting had occured and > the debris had landed on the piston and contaminated the oil. 
 
