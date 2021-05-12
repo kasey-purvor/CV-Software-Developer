@@ -42,6 +42,8 @@ My most recent employement began during the first lockdown as was challenging fo
 > With all of this determined I opted to design the screens at 10mm thickness. The design drawing can be seen below. 
 > 
 > ![ballistic_screen_drawing](https://user-images.githubusercontent.com/67878899/117833509-4d6bf700-b26e-11eb-9e9b-7116ec6adb02.jpg)
+> 
+> [Back to Contents](#kasey-purvor)
 
 ___
 ## Contamination Study 
@@ -60,6 +62,8 @@ ___
 > With the seals thewmselves made of silicon therefore these were the source of silicon, leaving aluminium and oxygen. I knew that Aluminium oxide (aluminium + oxygen) is a
 > common  grit blasting medium, which is a technique used by our parent company in China. We therefore deduced that the pistons had been left exposed while grit blasting had
 > occured and  the debris had landed on the piston and contaminated the oil. 
+> 
+> [Back to Contents](#kasey-purvor)
 
 ## Banjo Bolt
 > Commisioned following the failure of a bolt carrying high fluid pressure, this was the projectile from the [ballistic screen](#ballistic-screen) work. An investigation was    > performed to find out how to avoid a repeat. The bolt was modelled and its operating conditions were applied to a simulation, including fluid pressure and tightening torque.
@@ -81,4 +85,21 @@ ___
 > The results showed that the existing bolt was capable of 10Nm of tightening torque, making it unusable as the minimum required was 20Nm. It also revealed that if the bolt
 > only had 1 through hole, as opposed to 2, that the bolt would be usable as it could sustain 20Nm 
 > 
+> [Back to Contents](#kasey-purvor)
+
+> # Safety Mechanism 
+> This work involved a machine with a 100 ton steel beam that could be raised and lowered by a crane. Incase the crane were to fail a safety mechanism
+> that acted at all beam heights was needed. The best sollution was to use linear gears and a ratchet as seen below. The problem was that the structure holding the 
+> mechanism was very heavy and was likely to move in its foundation over time (the permissible amount was defined, see left image), meaning the fit of the gears would not
+> always be ideal, and the stresses would vary massively. 
 > 
+> ![safety_mechanism](https://user-images.githubusercontent.com/67878899/117949221-cbc9a700-b309-11eb-980f-e00b4b86eedd.png)
+> 
+> Many thousands of simulations were carried out over several months. Looking to optimise the shape, material and orientation of the gears so that they could sustain the load
+> with the permissible movement. The final results table shows the maximum stress of the gears at every permissible position. I opted for EN24 steel as it withstood the
+> stresses the best. See the green stress collumns.  The project required patience & determination above all else.  
+> 
+> ![safety_mechanism_stress_results](https://user-images.githubusercontent.com/67878899/117950370-04b64b80-b30b-11eb-97ad-75bda24e714a.png)
+> 
+> [Back to Contents](#kasey-purvor)
+
