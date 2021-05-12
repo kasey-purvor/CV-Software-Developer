@@ -115,7 +115,7 @@ ___
 ## Overview
 This was my first employment after graduating. The company make motion platforms with precision motors for CCTV camera movement. During my time there I was exposed to a range of experiences. Of particular note was the aquisition of a 3D filament printer, which received significant use in my work. I predominantly designed tooling for quality control and product assembly. As my first professional office environment my time there proved invaluable, picking up many useful skills along the way. 
 
-## University Project - Group Design & Make 
+## University Group Project  
 > For my third year project me and 3 other students undertook a highly challenging project involving the research, design and
 > building of a plasma surface modification device. This was as much a research project as a design & make.
 > The device used microwave frequency alternating current to form plasma from inert gases and direct this plasma onto test 
