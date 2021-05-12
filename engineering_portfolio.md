@@ -9,7 +9,7 @@ ___
   > - [Contamination Study](#contamination-study)
   > - [Banjo Bolt Failure Investigation](#banjo-bolt) 
   > - [Ratchet Safety Mechanism](#safety-mechanism)
-  > - [Safety Screen](#safety-screen)    
+  > - [Safety Enclosure](#safety-enclosure)    
 
   **Overview LTD**
   > - [3D Printing](#3d-printing) 
