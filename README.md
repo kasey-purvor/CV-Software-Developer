@@ -16,16 +16,16 @@ As a dependable and pragmatic fast learner, I am a confident person who thrives 
 | <a href='https://github.com/kasey-purvor/bank-app-tech-test'> **Bank App** </a>| Tech Test | Simple command line program that mimmicks a bank account. Allows deposits, withdrawals, overdrafts and statements | Ruby, Rspec |  
 | <a href='https://github.com/kasey-purvor/Grappitude'> **Grappitude** </a> | Group Project | Phone based wellbeing app that rewards users for journalling thoughts, provides motivational quotes and monitors progress | Java-Script MongoDB, React-Native, Express, Node.js, Expo, Jest |   
 | <a href='https://github.com/ianmcnicholas/acebook-team.1'> **Acebook** </a> | Group Project | Heroku Deployed web-app that copies some of the core functionality of facebook. Full CRUD functionality for posts and respective comments, plus user sessions/database | Ruby-On-Rails, Rspec, SQLite3, Capybara, CircleCI, Heroku, Devise |   
-| <a href='https://github.com/kasey-purvor/chitter-challenge'> **Chitter** </a> | Solo Project | My first web app project that allows users to create accounts and post to a public feed | Ruby, RSpec, Sinatra, PostgrSQL, Capybara|   
+| <a href='https://github.com/kasey-purvor/chitter-challenge'> **Chitter** </a> | Solo Project | My first web app project that allows users to create accounts and post to a public feed | Ruby, RSpec, Sinatra, PostgreSQL, Capybara|   
 | <a href='https://github.com/kasey-purvor/bowling-challenge-web_app'> **Bowling Score App** <a/>| Solo Project | Web app that keeps track of a players bowling scores, applying strike & split score bonuses | Java-Script, Ruby, RSpec, JQuery, Sinatra, Capybara |
 
 
 ## Skills
 
-> - **Self Starter** - Starting a new engineering role during lockdown, I was unable to undergo training and therefore unable to design the heavily regulated products. With my job in jeopardy I had to prove myself. A year on I had carved myself a new research/designer role where I dealt with all manner of novel problems (where nobody had any experience) and proved myself invaluable, performing many technical analysis and design tasks. |<a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#ballistic-screens'> ***ballistic screens*** </a>|  
-> - **Adaptable** - Whether tackling new concepts or familiar problems, I approach everything with the same pragmatism and logic seen throughout my career. |<a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#contamination-study'>***contamination study*** </a>|
-> - **Team Player** - Knowing when to take a leadership role, be a motivator or to just ensure you pull your weight. Team working is has been a vital part of my life for as long as I can remember, not just in academically or professionally, but in the lifestyle and hobbies I choose. | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#university-group-project'>***university group project*** </a>|
-> - **Attention To Detail** - Having worked in an industry where products are designed to within 1/1000th of millimeter and the slightest miscalculation could cause serious injury or worse, an eye for detail is not something I could have survived without. |<a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#safety-mechanism'>***safety mechanism*** </a>|
+> - **Self Starter** - Starting a new engineering role during lockdown, I was unable to undergo training and therefore unable to design the heavily regulated products. With my job in jeopardy I had to prove myself. A year on I had carved myself a new research/designer role where I dealt with all manner of novel problems (where nobody had any experience) and proved myself invaluable, performing many technical analysis and design tasks. | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#ballistic-screens'> ***ballistic screens*** </a> |  
+> - **Adaptable** - Whether tackling new concepts or familiar problems, I approach everything with the same pragmatism and logic seen throughout my career. | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#contamination-study'>***contamination study*** </a> |
+> - **Team Player** - Knowing when to take a leadership role, be a motivator or to just ensure you pull your weight. Team working is has been a vital part of my life for as long as I can remember, not just in academically or professionally, but in the lifestyle and hobbies I choose. | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#university-group-project'>***university group project*** </a> |
+> - **Attention To Detail** - Having worked in an industry where products are designed to within 1/1000th of millimeter and the slightest miscalculation could cause serious injury or worse, an eye for detail is not something I could have survived without. | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#safety-mechanism'>***safety mechanism*** </a> |
 
 ## Work Experience
 ***(Mechanical Engineer)*** __portfolio link here__
@@ -33,17 +33,17 @@ As a dependable and pragmatic fast learner, I am a confident person who thrives 
 > ### **Servo test Testing Systems LTD** (March 2020 to January 2021) 
 > _Mechanical Design Engineer_ 
 > #### Relevant Skills:
-> - Design as part of a team |<a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#safety-mechanism'>***safety mechanism*** </a>|
-> - Solo Design |<a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#safety-enclosure'> ***saftey enclosure*** </a> |
-> - Research |<a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#contamination-study'>***contamination study*** </a>|
+> - Design as part of a team | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#safety-mechanism'>***safety mechanism*** </a> |
+> - Solo Design | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#safety-enclosure'> ***safetey enclosure*** </a> |
+> - Research | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#contamination-study'>***contamination study*** </a> |
 > - Design to Standards 
-> - Test driven design |  <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#banjo-bolt'> ***banjo bolt*** </a> | 
+> - Test driven design | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#banjo-bolt'> ***banjo bolt*** </a> | 
 
 > ### **Overview LTD** (November 2018 to March 2020) 
 > _Mechanical Design Engineer_ 
 > #### Relevant Skills 
 > - Design as part of a team 
-> - Solo Design | ***torque sensor*** |  ***motor test rig*** 
+> - Solo Design  | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#motor-test-rig'> ***motor test rig*** </a> |
 > - Iterative Design
 > - Making of business cases for new technology purchases | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#3d-printing'> ***3d Printer*** </a> | 
 > - Matlab 
@@ -89,7 +89,7 @@ Technologies & Frameworks Experience:
  engineering. I have read some of the most popular, and some more niche, books spanning space, astronomy
  and theoretical & particle physics.
 
-- I am an avid mountain biker. I will be out riding my bike almost every weekend.
+- I am an avid mountain biker. I am out riding my bike almost every weekend.
 
 - Rugby is a sport in which I am very passionate. Having played from ages 7 to 20, for Sunday Club, school and
  University, I follow most international & top league fixtures and regularly attend games at Twickenham.
