@@ -104,11 +104,27 @@ ___
 > [Back to Contents](#kasey-purvor)
 > 
 ## Safety Enclosure
-> One of the test machines had the potential to eject small fragments when the sample peices failed. I was tasked with designing an enclosure to protect the operator from any
-> fragments. The final enclosure can be seen below. 
+> A test machines had the potential to eject small fragments when the sample peices fractured. I was tasked with designing an enclosure to protect the operator from any
+> fragments. This was a solo project and the final enclosure can be seen below. 
 > 
 > ![safety_screen](https://user-images.githubusercontent.com/67878899/117954914-64165a80-b30f-11eb-879f-771e4d600e1f.png)
 > 
 > [Back to Contents](#kasey-purvor)
+> 
 
+## Overview
+This was my first employment after graduating. The company make motion platforms with precision motors for CCTV camera movement. During my time there I was exposed to a range of experiences. Of particular note was the aquisition of a 3D filament printer, which received significant use in my work. I predominantly designed tooling for quality control and product assembly. As my first professional office environment my time there proved invaluable, picking up many useful skills along the way. 
+
+## University Project - Group Design & Make 
+> For my third year project me and 3 other students undertook a highly challenging project involving the research, design and
+> building of a plasma surface modification device. This was as much a research project as a design & make.
+> The device used microwave frequency alternating current to form plasma from inert gases and direct this plasma onto test 
+> materials. The device was built on a 3 axis gantry for control and was built into a safety enclosure. An enormous amount of 
+> research into high frequency electrical theory and health and safety in design was performed. The project tested our teamworking 
+> ability almost to breaking point at times, and was a fantastic experience to be a part of a truly cutting edge and novel 
+> experience.  
+> 
+> ![group_design_project](https://user-images.githubusercontent.com/67878899/117978331-a8aeef80-b329-11eb-96f5-ad4761610158.png)
+> 
+>  [Back to Contents](#kasey-purvor) 
 
