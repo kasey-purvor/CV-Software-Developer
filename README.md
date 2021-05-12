@@ -22,8 +22,8 @@ As a dependable and pragmatic fast learner, I am a confident person who thrives 
 
 ## Skills
 
-> - **Self Starter** - Starting a new engineering role during lockdown, I was unable to undergo training and therefore unable to design the heavily regulated products. With my job in jeopardy I had to prove myself. A year on I had carved myself a new research/designer role where I dealt with all manner of novel problems (where nobody had any experience) and proved myself invaluable, performing many technical analysis and design tasks. | ***ballistic screens*** |  
-> - **Adaptable** - Whether tackling new concepts or familiar problems, I approach everything with the same pragmatism and logic seen throughout my career. | ***contamination study*** |
+> - **Self Starter** - Starting a new engineering role during lockdown, I was unable to undergo training and therefore unable to design the heavily regulated products. With my job in jeopardy I had to prove myself. A year on I had carved myself a new research/designer role where I dealt with all manner of novel problems (where nobody had any experience) and proved myself invaluable, performing many technical analysis and design tasks. | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#ballistic-screens'> ***ballistic screens*** </a> |  
+> - **Adaptable** - Whether tackling new concepts or familiar problems, I approach everything with the same pragmatism and logic seen throughout my career. | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#contamination-study'>***contamination study*** </a> |
 > - **Team Player** - Knowing when to take a leadership role, be a motivator or to just ensure you pull your weight. Team working is has been a vital part of my life for as long as I can remember, not just in academically or professionally, but in the lifestyle and hobbies I choose. | ***group design & make*** | ***grappitude*** |
 > - **Attention To Detail** - Having worked in an industry where products are designed to within 1/1000th of millimeter and the slightest miscalculation could cause serious injury or worse, an eye for detail is not something I could have survived without. | ***safety mechanism*** |
 
@@ -37,7 +37,7 @@ As a dependable and pragmatic fast learner, I am a confident person who thrives 
 > - Solo Design | ***saftey screen*** |
 > - Research | ***contamination study*** |
 > - Design to Standards 
-> - Test driven design | ***banjo bolt*** | 
+> - Test driven design |  <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#ballistic-screens'> ***banjo bolt*** </a> | 
 
 > ### **Overview LTD** (November 2018 to March 2020) 
 > _Mechanical Design Engineer_ 
