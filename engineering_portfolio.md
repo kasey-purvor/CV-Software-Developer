@@ -67,7 +67,7 @@ My most recent employement began during the first lockdown as was challenging fo
 
 
 ### Banjo Bolt
-> Commisioned following the failure of a bolt carrying high fluid pressure, this was the projectile from the [ballistic screen](#ballistic-screen) work. An investigation was    > performed to find out how to avoid a repeat. The bolt was modelled and its operating conditions were applied to a simulation, including fluid pressure and tightening torque.
+> Commisioned following the failure of a bolt carrying high fluid pressure, this was the projectile from the [ballistic screen](#ballistic-screens) work. An investigation was    > performed to find out how to avoid a repeat. The bolt was modelled and its operating conditions were applied to a simulation, including fluid pressure and tightening torque.
 > A stress map can be seen below along with the model below
 > 
 > ![banjo_bolt_model](https://user-images.githubusercontent.com/67878899/117842751-24e7fb00-b276-11eb-9a30-cea3e79511d1.png)
