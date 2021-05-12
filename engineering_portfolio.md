@@ -25,7 +25,7 @@ ___
 My most recent employement began during the first lockdown as was challenging for a number of reasons. As the company was unprepared for home working, I was unable to be trained in the heavily regulated hydraulics. Therefore I seeked out problems that were novel to the company, and therefore nobody was better suited than me through experience. I am proud hopw I handled this period and thrived performing work that had many new concepts. The work I did had very little guidance, and required me to be resilliant, patient, dependable and an strong self starter. The following outlines some of the work I did during my time there. 
 
 ### Ballistic Screens
-> During testing of a large hydraulic piston, a fluid carrying component failed. The failed component was ejected at speed and punctured the metal ceiling of the workshop. As a > result an investigation into the component was launched (<a> banjo-bolt </a>) and the design of adequate safety screens was comissioned. Both were delagated to me.  
+> During testing of a large hydraulic piston, a fluid carrying component failed. The failed component was ejected at speed and punctured the metal ceiling of the workshop. As a > result an investigation into the component was launched [see here](#banjo-bolt) and the design of adequate safety screens was comissioned. Both were delagated to me.  
 >
 > To design adequate safety screens I would to know 2 properties of the projectiles: mass & velocity. I began by identifying the largest & longest projectile (as this would be  > the worst case) and based my analysis on this. I then studied the ***pressure test safety*** document for a way to model the acceleration (figure 1). Along with the eqautions > of motion (figure 2) I came up with a calculation for determining the escape velocity of the component (figure 3) by the large red arrow. 
 > 
@@ -52,3 +52,22 @@ ___
 > The results showed, ignoring trace amounts and anomalous elements, that predominantly there were 3 elements and 2 types of particle. They were silicon, aluminium and oxygen. 
 > With the seals thewmselves made of silicon it was fair to assume this was the source of silicon, leaving aluminium and oxygen. Aluminium oxide (aluminium + oxygen) is a common > grit blasting medium which is a technique used by our parent company in China. We therefore deduced that the pistons had been left exposed while grit blasting had occured and > the debris had landed on the piston and contaminated the oil. 
 
+## Banjo Bolt
+> Commisioned following the failure of a bolt carrying high fluid pressure, this was the projectile from the [ballistic screen](#ballistic-screen) work. An investigation was    > performed to find out why the component failed and what could be done to avoid a repeat. The bolt was modelled and its operating conditions were applied to a simulation,
+>  including fluid pressure and tightening torque. A stress map can be seen below along with the model below
+> 
+> ![banjo_bolt_model](https://user-images.githubusercontent.com/67878899/117842751-24e7fb00-b276-11eb-9a30-cea3e79511d1.png)
+> 
+> The simulation showed that there were obvious weak points in the bolt, where the 2 through holes intersected. This was a design flaw by the manufacturer. 
+> As the fuild pressure was constant, the only variable we could control was the torque that the bolt was tightened to. As the tightness of the bolt translates into tension in 
+> the bolt shaft. The theory for this is shown below
+> 
+> ![banjo_bolt_tension_equations](https://user-images.githubusercontent.com/67878899/117846027-f7e91780-b278-11eb-8e2d-e16f6059ec49.png)
+> 
+> With this known, a huge number of iterative simulations were conducted. Each trying to determine what was the ideal tightening torque for the bolt. The results of the 
+> simulations are shown below. 
+> 
+> ![banjo_bolt_simulation_results](https://user-images.githubusercontent.com/67878899/117846473-6201bc80-b279-11eb-94e9-21f33b668a73.png)
+> 
+> The results showed that the existing bolt was capable of 10Nm of tightening torque, making it unusable as the minimum required was 20Nm. It also revealed that if the bolt
+> only had 1 through hole, as opposed to 2, that the bolt would be usable as it could sustain 20Nm 
