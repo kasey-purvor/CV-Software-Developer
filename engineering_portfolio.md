@@ -87,7 +87,7 @@ ___
 > 
 > [Back to Contents](#kasey-purvor)
 
-> # Safety Mechanism 
+ ## Safety Mechanism 
 > This work involved a machine with a 100 ton steel beam that could be raised and lowered by a crane. Incase the crane were to fail a safety mechanism
 > that acted at all beam heights was needed. The best sollution was to use linear gears and a ratchet as seen below. The problem was that the structure holding the 
 > mechanism was very heavy and was likely to move in its foundation over time (the permissible amount was defined, see left image), meaning the fit of the gears would not
@@ -102,4 +102,13 @@ ___
 > ![safety_mechanism_stress_results](https://user-images.githubusercontent.com/67878899/117950370-04b64b80-b30b-11eb-97ad-75bda24e714a.png)
 > 
 > [Back to Contents](#kasey-purvor)
+> 
+## Safety Enclosure
+> One of the test machines had the potential to eject small fragments when the sample peices failed. I was tasked with designing an enclosure to protect the operator from any
+> fragments. The final enclosure can be seen below. 
+> 
+> ![safety_screen](https://user-images.githubusercontent.com/67878899/117954914-64165a80-b30f-11eb-879f-771e4d600e1f.png)
+> 
+> [Back to Contents](#kasey-purvor)
+
 
