@@ -5,19 +5,19 @@ ___
 *In reverse order - most recent first* 
    
    **Servotest LTD**
-  > - Ballistic Screens 
-  > - Contamination Study
-  > - Banjo Bolt Failure Investigation 
-  > - Ratchet Safety Mechanism 
-  > - Safety Screen    
+  > - [Ballistic Screens](#ballistic-screens) 
+  > - [Contamination Study](#contamination-study)
+  > - [Banjo Bolt Failure Investigation](#banjo-bolt) 
+  > - [Ratchet Safety Mechanism](#safety-mechanism)
+  > - [Safety Screen](#safety-screen)    
 
   **Overview LTD**
-  > - Torque Sensor  
-  > - Motor Test Rig   
-  > - 3D Printing   
+  > - [3D Printing](#3d-printing) 
+  > - [Motor Test Rig](#motor-test-rig)  
+  
 
   **University Work**    
-  > - Group Design & Make - Plasma Surface Modification   
+  > - [Group Design & Make - Plasma Surface Modification](#university-group-project)
   > - Final Year Project - Glass Viscometry   
   > - Research Project - Megabatteries As Grid Storage Sollution 
 ___
@@ -46,7 +46,7 @@ My most recent employement began during the first lockdown as was challenging fo
 > [Back to Contents](#kasey-purvor)
 
 
-## Contamination Study 
+### Contamination Study 
 > After some hydraulic pistons were shipped back from our parent company in China with heavily worn seals, investigation showed there was a mysterious powder contaminant in the
 > hydraulic fluid (image below). It was wearing away the seals as they moved. I was tasked with determining what the contamination was and where it was coming from.
 > 
@@ -66,7 +66,7 @@ My most recent employement began during the first lockdown as was challenging fo
 > [Back to Contents](#kasey-purvor)
 
 
-## Banjo Bolt
+### Banjo Bolt
 > Commisioned following the failure of a bolt carrying high fluid pressure, this was the projectile from the [ballistic screen](#ballistic-screen) work. An investigation was    > performed to find out how to avoid a repeat. The bolt was modelled and its operating conditions were applied to a simulation, including fluid pressure and tightening torque.
 > A stress map can be seen below along with the model below
 > 
@@ -89,7 +89,7 @@ My most recent employement began during the first lockdown as was challenging fo
 > [Back to Contents](#kasey-purvor)
 
 
- ## Safety Mechanism 
+ ### Safety Mechanism 
 > This work involved a machine with a 100 ton steel beam that could be raised and lowered by a crane. Incase the crane were to fail a safety mechanism
 > that acted at all beam heights was needed. The best sollution was to use linear gears and a ratchet as seen below. The problem was that the structure holding the 
 > mechanism was very heavy and was likely to move in its foundation over time (the permissible amount was defined, see left image), meaning the fit of the gears would not
@@ -106,7 +106,7 @@ My most recent employement began during the first lockdown as was challenging fo
 > [Back to Contents](#kasey-purvor)
 > 
 
-## Safety Enclosure
+### Safety Enclosure
 > A test machines had the potential to eject small fragments when the sample peices fractured. I was tasked with designing an enclosure to protect the operator from any
 > fragments. This was a solo project and the final enclosure can be seen below. 
 > 
@@ -119,7 +119,7 @@ ___
 ## Overview
 This was my first employment after graduating. The company make motion platforms with precision motors for CCTV camera movement. During my time there I was exposed to a range of experiences. Of particular note was the aquisition of a 3D filament printer, which received significant use in my work. I predominantly designed tooling for quality control and product assembly. As my first professional office environment my time there proved invaluable, picking up many useful skills along the way. 
 
-## 3D Printing
+### 3D Printing
 > During my time at Overview I was tasked with making a buisness case for a 3D printer. The company relied heavily on prototypes 
 > which often took weeks to make. With a printer we could make prototypes within hours which brought with it countless benifits. 
 > It was an easy sell, and once aquired the used for it increased rapidly. As I kept up to date with additive manufacturing tech 
@@ -135,7 +135,7 @@ This was my first employment after graduating. The company make motion platforms
 > Image of a motor-gearbox assembly. Used to measure the output torque of the motor through the gearbox. All components printed.
 > ![3d_printer_3](https://user-images.githubusercontent.com/67878899/117983004-7784ee00-b32e-11eb-8963-ed978eb3233f.png)
 
-## Motor Test Rig 
+### Motor Test Rig 
 > One of the first tasks I was given at Overview was to design a motor test rig. It had to simulate the weight of the camera that was to be mounted in the field. After performing the inertia calculation I designed a weight that mimmicked the cameras inertial mass. This was then mounted onto a motorm which can be seen below. 
 > ![motor_test_rig](https://user-images.githubusercontent.com/67878899/117985884-0430ab80-b331-11eb-993f-2ceff2661422.png)
 > [Back to Contents](#kasey-purvor)
