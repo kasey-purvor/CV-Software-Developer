@@ -14,7 +14,7 @@ ___
   **Overview LTD**
   > - Torque Sensor  
   > - Motor Test Rig   
-  > - 3D Printer    
+  > - 3D Printing   
 
   **University Work**    
   > - Group Design & Make - Plasma Surface Modification   
@@ -114,6 +114,22 @@ ___
 
 ## Overview
 This was my first employment after graduating. The company make motion platforms with precision motors for CCTV camera movement. During my time there I was exposed to a range of experiences. Of particular note was the aquisition of a 3D filament printer, which received significant use in my work. I predominantly designed tooling for quality control and product assembly. As my first professional office environment my time there proved invaluable, picking up many useful skills along the way. 
+
+## 3D Printing
+> During my time at Overview I was tasked with making a buisness case for a 3D printer. The company relied heavily on prototypes 
+> which often took weeks to make. With a printer we could make prototypes within hours which brought with it countless benifits. 
+> It was an easy sell, and once aquired the used for it increased rapidly. As I kept up to date with additive manufacturing tech 
+> and was trained on the machine, I became the first stop for anyone needing something designed & printed. I also used it in many 
+> of my own projects, including tooloing, test rigs and full prototypes. 
+> 
+> A selection of printed parts, with an image of the printer in action 
+> ![3d_printer_1](https://user-images.githubusercontent.com/67878899/117982294-c716ea00-b32d-11eb-8d0c-c6b9aefd4b0a.png)
+> 
+> An image of a motor test rig. USed to simulate the operational load of a motor while in use
+> ![3d_printer_2](https://user-images.githubusercontent.com/67878899/117982503-f75e8880-b32d-11eb-8af6-319b270dc262.png)
+> 
+> Image of a motor-gearbox assembly. Used to measure the output torque of the motor through the gearbox. All components printed.
+> ![3d_printer_3](https://user-images.githubusercontent.com/67878899/117983004-7784ee00-b32e-11eb-8963-ed978eb3233f.png)
 
 ## University Group Project  
 > For my third year project me and 3 other students undertook a highly challenging project involving the research, design and
