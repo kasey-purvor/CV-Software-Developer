@@ -1,7 +1,7 @@
 # Kasey Purvor 
  ***Mechanical Engineer Seeking to Break into Software Role***
  ___
-[Software Projects](#software-projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Interests](#interests) |
+[Software Projects](#software-projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Interests](#interests) | [Contact](#contact)
 
 
 Fascinated by the technical subjects, by the time I graduated I knew little about the industry I was to join. I was naïve, had all the technical knowledge and no clue what to expect. Two jobs and a pandemic later I find myself looking to make drastic changes to my life, driven by a desire to be challenged and rewarded. 
@@ -96,3 +96,10 @@ Technologies & Frameworks Experience:
 
 - Music has always been something I am very passionate about. I began playing the piano aged 7 and finished
  my grade 7 exams aged 17. Aside from playing music, I regularly attend music festivals and gigs with my friends.
+ 
+ ## My Details
+ - Email: kasey.purvor@gmail.com
+ - Phone: 07736300602
+ - Location: Southwest London
+ - Linkedin: <a href='https://www.linkedin.com/in/kasey-purvor' > Kasey Purvor </a>
+ - Codewars: <a href='https://www.codewars.com/users/kasey-purvor'> kasey-purvor </a>
