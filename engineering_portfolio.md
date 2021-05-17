@@ -4,14 +4,14 @@ ___
 ## Contents:   
 *In reverse order - most recent first* 
    
-   **Servotest LTD**
+   [**Servotest LTD**](#my-work-at-servotest)
   > - [Ballistic Screens](#ballistic-screens) 
   > - [Contamination Study](#contamination-study)
   > - [Banjo Bolt Failure Investigation](#banjo-bolt) 
   > - [Ratchet Safety Mechanism](#safety-mechanism)
   > - [Safety Enclosure](#safety-enclosure)    
 
-  **Overview LTD**
+  [**Overview LTD**](#my-work-at-overview)
   > - [3D Printing](#3d-printing) 
   > - [Motor Test Rig](#motor-test-rig)  
   
