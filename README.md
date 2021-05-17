@@ -1,7 +1,7 @@
 # Kasey Purvor 
  ***Mechanical Engineer Seeking to Break into Software Role***
  ___
-[Software Projects](#software-projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Interests](#interests) | [Contact](#contact)
+[Software Projects](#software-projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Interests](#interests) | [Contact](#my-details)
 
 
 Fascinated by the technical subjects, by the time I graduated I knew little about the industry I was to join. I was naïve, had all the technical knowledge and no clue what to expect. Two jobs and a pandemic later I find myself looking to make drastic changes to my life, driven by a desire to be challenged and rewarded. 
