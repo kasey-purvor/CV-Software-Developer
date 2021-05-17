@@ -3,10 +3,11 @@
  ___
 [Software Projects](#software-projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Interests](#interests) | [Contact](#my-details)
 
+As a young child I was fascinated by technology and science. At 9 years old I was driven by having a PC that was too slow to play the games I had. I found myself learning everything I could about computer hardware. Obsessed with specs, I knew every hardware initialism on the market. Eventually after years of nagging/begging I was allowed to build my own computer from scratch for my gaming exploits. It was probably one of the first SLI dual GPU machines around and I still have it now, 15 years on. 
 
-Fascinated by the technical subjects, by the time I graduated I knew little about the industry I was to join. I was naïve, had all the technical knowledge and no clue what to expect. Two jobs and a pandemic later I find myself looking to make drastic changes to my life, driven by a desire to be challenged and rewarded. 
+At school my love of physics and astronomy led me to applied physics and onto engineering at University. Fascinated by the technical subjects, by the time I graduated I knew little about the industry & work culture I was to join. I was naïve, had all the technical knowledge and no clue what to expect. Two jobs and a pandemic later I find myself looking to make drastic changes to my life, driven by a desire to be challenged and rewarded. 
 
-As a dependable and pragmatic fast learner, I am a confident person who thrives in challenging roles. Problem solving is what I love and do best. Having felt stagnant, unrewarded and unchallenged as a mechanical engineer; I feel there is no better industry for me than software. It is dynamic, rewarding and exiting - I think of it like a frontier of human innovation, and I intend to find myself there.
+As a dependable and pragmatic fast learner, I am a confident person who thrives in challenging roles. Problem solving is what I love and do best. Having felt stagnant and  unrewarded as a mechanical engineer; I feel there is no better industry for me than software. It is dynamic, rewarding and exiting - I think of it like a frontier of human innovation, and I intend to find myself there.
 
 ## Software Projects
 
@@ -22,8 +23,10 @@ As a dependable and pragmatic fast learner, I am a confident person who thrives 
 
 ## Skills
 
-> - **Self Starter** - Starting a new engineering role during lockdown, I was unable to undergo training and therefore unable to design the heavily regulated products. With my job in jeopardy I had to prove myself. A year on I had carved myself a new research/designer role where I dealt with all manner of novel problems (where nobody had any experience) and proved myself invaluable, performing many technical analysis and design tasks. | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#ballistic-screens'> ***ballistic screens*** </a> |  
-> - **Adaptable** - Whether tackling new concepts or familiar problems, I approach everything with the same pragmatism and logic seen throughout my career. | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#contamination-study'>***contamination study*** </a> |
+> - **Self Starter**    
+> Starting a new engineering role during lockdown, I was unable to undergo training and therefore unable to design the heavily regulated products. With my job in jeopardy I had to prove myself, I asked to be given a chance. So I was given a unique problem. A year on I had carved myself a new research/designer role where I dealt with all manner of novel problems (where nobody had any experience) and proved myself invaluable, performing many technical analysis and design tasks.  <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#ballistic-screens'>  | ***Ballistic screens*** | </a>    
+> During my time at Makers Academy, I found myself using the MERN stack to complete a project. With my previous experience in Ruby, fairly new to Javascript and completely new to MongoDB, React and Node.js, I had to apply my self-starting ability to teach myself to use these technologies, navigating numerous blockers along the way. | <a href='https://github.com/kasey-purvor/Grappitude'> **Grappitude** </a> | 
+> - **Adaptable** - Whether tackling new concepts or familiar problems, I approach everything with the same pragmatism and logic seen throughout my career. | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#contamination-study'> ***contamination study***  </a> 
 > - **Team Player** - Knowing when to take a leadership role, be a motivator or to just ensure you pull your weight. Team working is has been a vital part of my life for as long as I can remember, not just in academically or professionally, but in the lifestyle and hobbies I choose. | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#university-group-project'>***university group project*** </a> |
 > - **Attention To Detail** - Having worked in an industry where products are designed to within 1/1000th of millimeter and the slightest miscalculation could cause serious injury or worse, an eye for detail is not something I could have survived without. | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#safety-mechanism'>***safety mechanism*** </a> |
 
@@ -37,14 +40,16 @@ As a dependable and pragmatic fast learner, I am a confident person who thrives 
 > - Solo Design | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#safety-enclosure'> ***safetey enclosure*** </a> |
 > - Research | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#contamination-study'>***contamination study*** </a> |
 > - Design to Standards 
-> - Test driven design | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#banjo-bolt'> ***banjo bolt*** </a> | 
+> - Test Driven Design | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#banjo-bolt'> ***banjo bolt*** </a> | 
 
 > ### **Overview LTD** (November 2018 to March 2020) 
 > _Mechanical Design Engineer_ 
 > #### Relevant Skills 
+> - Creativity
+> - Product Management 
 > - Design as part of a team 
 > - Solo Design  | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#motor-test-rig'> ***motor test rig*** </a> |
-> - Iterative Design
+> - Agile Design
 > - Making of business cases for new technology purchases | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#3d-printing'> ***3d Printer*** </a> | 
 > - Matlab 
 > - Design to Standards 
