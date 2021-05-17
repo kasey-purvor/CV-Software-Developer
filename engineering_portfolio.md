@@ -22,7 +22,7 @@ ___
   > - Research Project - Megabatteries As Grid Storage Solution 
 ___
 ## My Work At Servotest
-My most recent employement began during the first lockdown as was challenging for a number of reasons. As the company was unprepared for home working, I was unable to be trained in the heavily regulated hydraulics. Therefore I sought out problems that were novel to the company, and therefore nobody was better suited than me through experience. I am proud how I handled this period and thrived performing work that had many new concepts. The work I did had very little guidance, and required me to be resiliant, patient, dependable and an strong self starter. The following outlines some of the work I did during my time there. 
+My most recent employment began during the first lockdown as was challenging for a number of reasons. As the company was unprepared for home working, I was unable to be trained in the heavily regulated hydraulics. Therefore I sought out problems that were novel to the company, and therefore nobody was better suited than me through experience. I am proud how I handled this period and thrived performing work that had many new concepts. The work I did had very little guidance, and required me to be resiliant, patient, dependable and an strong self starter. The following outlines some of the work I did during my time there. 
 
 ### Ballistic Screens
 > During testing of a large hydraulic piston, a fluid carrying component failed. The failed component was ejected at speed and punctured a metal ceiling. An investigation into
