@@ -1,7 +1,11 @@
 # Kasey Purvor 
- ***Mechanical Engineer Seeking to Break into Software Role***
+ ***Mechanical Engineer Seeking to Move into Software Role***    
+    
+| Email: kasey.purvor@gmail.com | Phone: 07736 300 602 | <a href='https://www.linkedin.com/in/kasey-purvor' > Linkedin </a> | <a href='https://www.codewars.com/users/kasey-purvor'> Codewars </a> | 
  ___
-[Software Projects](#software-projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Interests](#interests) | [Contact](#my-details)
+[Software Projects](#software-projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Interests](#interests) | 
+
+
 
 As a young child I was fascinated by technology and science. Aged 9 I had a PC that was too slow to play the games I had. I found myself learning everything I could about computer hardware. Obsessed with specs, I knew every hardware initialism on the market. Eventually after years of begging I was allowed to build my own computer from scratch for my gaming exploits. It was probably one of the first SLI dual GPU machines around and I still have it now, 15 years on. 
 
@@ -23,12 +27,16 @@ Problem solving is what I love and do best and as an engineer I honed this skill
 
 ## Skills
 
-> - **Self Starter**    
-> Starting a new engineering role during lockdown, I was unable to undergo training and therefore unable to design the heavily regulated products. With my job in jeopardy I had to prove myself, I asked to be given a chance. So I was given a unique problem. A year on I had carved myself a new research/designer role where I dealt with all manner of novel problems (where nobody had any experience) and proved myself invaluable, performing many technical analysis and design tasks.  <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#ballistic-screens'>  | ***Ballistic-screens*** | </a>    
-> During my time at Makers Academy, I found myself using the MERN stack to complete a project. With my previous experience in Ruby, fairly new to Javascript and completely new to MongoDB, React and Node.js, I had to apply my self-starting ability to teach myself to use these technologies, navigating numerous blockers along the way. | <a href='https://github.com/kasey-purvor/Grappitude'> **Grappitude** </a> | 
-> - **Adaptable** - Whether tackling new concepts or familiar problems, I approach everything with the same pragmatism and logic seen throughout my career. | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#contamination-study'> ***contamination study***  </a> 
-> - **Team Player** - Knowing when to take a leadership role, be a motivator or to just ensure you pull your weight. Team working is has been a vital part of my life for as long as I can remember, not just in academically or professionally, but in the lifestyle and hobbies I choose. | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#university-group-project'>***university group project*** </a> |
-> - **Attention To Detail** - Having worked in an industry where products are designed to within 1/1000th of millimeter and the slightest miscalculation could cause serious injury or worse, an eye for detail is not something I could have survived without. | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#safety-mechanism'>***safety mechanism*** </a> |
+
+- **Self Starter**  
+	* Starting a new engineering role during lockdown, I was unable to undergo training and therefore unable to design the heavily regulated hydraulic products. With my job in jeopardy I asked to be given a chance to prove myself, I was given a two-part new problem that did not require training. Six months on I had carved myself a new research/designer role where I dealt with novel problems (where nobody had any experience), performing  research into many new concepts I proved myself invaluable. I am proud how I handled this period and thrived. The work I did had very little guidance, and required me to be **creative**, **resilient**, **dependable**. | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#ballistic-screens'> ***Ballistic-screens*** </a> | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#banjo-bolt'> ***Banjo Bolt*** </a> |   
+	* During my time at Makers Academy, I found myself on a project using the MERN stack. With my previous experience in Ruby, fairly new to Javascript and completely new to MongoDB, React and Node.js, I had to apply my self-starting ability to create a graphical progress bar that fileld up when users input their thoughts. Navigating numerous blockers along the way I succeeded. | <a href='https://github.com/kasey-purvor/Grappitude'> **Grappitude** </a> | 
+- **Adaptable** 
+	* Whether tackling new concepts or familiar problems, I approach everything with the same pragmatism and logic seen throughout my career. | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#contamination-study'> ***contamination study***  </a> 
+ - **Team Player** 
+	* Knowing when to take a leadership role, be a motivator or to just ensure you pull your weight. Team working is has been a vital part of my life for as long as I can remember, not just in academically or professionally, but in the lifestyle and hobbies I choose. | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#university-group-project'>***university group project*** </a> |
+ - **Attention To Detail** 
+	* Having worked in an industry where products are designed to within 1/1000th of millimeter and the slightest miscalculation could cause serious injury or worse, an eye for detail is not something I could have survived without. | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#safety-mechanism'>***safety mechanism*** </a> |
 
 ## Work Experience
 ***(Mechanical Engineer)*** __portfolio link here__
@@ -102,9 +110,4 @@ Technologies & Frameworks Experience:
 - Music has always been something I am very passionate about. I began playing the piano aged 7 and finished
  my grade 7 exams aged 17. Aside from playing music, I regularly attend music festivals and gigs with my friends.
  
- ## My Details
- - Email: kasey.purvor@gmail.com
- - Phone: 07736300602
- - Location: Southwest London
- - Linkedin: <a href='https://www.linkedin.com/in/kasey-purvor' > Kasey Purvor </a>
- - Codewars: <a href='https://www.codewars.com/users/kasey-purvor'> kasey-purvor </a>
+
