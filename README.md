@@ -3,11 +3,11 @@
  ___
 [Software Projects](#software-projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Interests](#interests) | [Contact](#my-details)
 
-As a young child I was fascinated by technology and science. At 9 years old I was driven by having a PC that was too slow to play the games I had. I found myself learning everything I could about computer hardware. Obsessed with specs, I knew every hardware initialism on the market. Eventually after years of nagging/begging I was allowed to build my own computer from scratch for my gaming exploits. It was probably one of the first SLI dual GPU machines around and I still have it now, 15 years on. 
+As a young child I was fascinated by technology and science. Aged 9 I had a PC that was too slow to play the games I had. I found myself learning everything I could about computer hardware. Obsessed with specs, I knew every hardware initialism on the market. Eventually after years of begging I was allowed to build my own computer from scratch for my gaming exploits. It was probably one of the first SLI dual GPU machines around and I still have it now, 15 years on. 
 
-At school my love of physics and astronomy led me to applied physics and onto engineering at University. Fascinated by the technical subjects, by the time I graduated I knew little about the industry & work culture I was to join. I was naïve, had all the technical knowledge and no clue what to expect. Two jobs and a pandemic later I find myself looking to make drastic changes to my life, driven by a desire to be challenged and rewarded. 
+At school my love of physics and astronomy led me to applied physics and onto engineering at University. Fascinated by the technical subjects, by the time I graduated I knew little about the industry & work culture I was to join. I had all the technical knowledge and no clue what to expect. 
 
-As a dependable and pragmatic fast learner, I am a confident person who thrives in challenging roles. Problem solving is what I love and do best. Having felt stagnant and  unrewarded as a mechanical engineer; I feel there is no better industry for me than software. It is dynamic, rewarding and exiting - I think of it like a frontier of human innovation, and I intend to find myself there.
+Problem solving is what I love and do best and as an engineer I honed this skill; as well as practicing creativity, product management and communication.  Having felt slightly stagnant and unrewarded as a mechanical engineer, I find myself looking to make the move into software - driven by a desire to be challenged and rewarded in a flexible work environment. As a dependable and pragmatic fast learner who thrives in challenging roles, I feel there is no better industry for me. It is dynamic, rewarding and exiting - I think of it like a frontier of human innovation, and I intend to find myself there.
 
 ## Software Projects
 
