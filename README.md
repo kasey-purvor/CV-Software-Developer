@@ -39,7 +39,7 @@ Problem solving is what I love and do best and as an engineer I honed this skill
 	* During the many group software projects I completed at Makers team-working was vital. Knowing when to take a leadership role, be a motivator or to just ensuring I pulled my weight. In one instance, when dissonance grew between members of my group. I had to deploy the diplomacy I learned through my experiences to prevent passive aggression turing active and to see the project over the line. 
 	* At university I undertook a highly challenging project involving the research, design and building of a plasma surface modification device that have never been done before. An enormous amount of research was performed, and due to delays in acquiring the expensive hardware required, we had to design everything without the ability to test until the last weeks of term. The project tested our team-working ability almost to breaking point at times, and was a fantastic experience to be a part of a truly cutting edge and novel experience - which succesfully acheived the project goals.|<a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#university-group-project'>***University Group Project*** </a>|
  - **Attention To Detail** 
-	* Having worked in an industry where products are designed to within 1/1000th of millimeter, an eye for details is a core attirbute of mine. During the design of a geared safety mechanism that had to allow movement. I was tasked with determining the optimal profile and size of the gears. Many thousands of simulations were carried out over several months, as well as countless material properties studies and manufacturer discussions. In the end my design was accepted and the project went ahead.   |<a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#safety-mechanism'>***Safety Mechanism*** </a> |
+	* Having worked in an industry where products are designed to within 1/1000th of millimeter, an eye for details is a core attirbute of mine. During the design of a geared safety mechanism that had to allow movement without breaking. I was tasked with determining the optimal profile and size of the gears. Many thousands of simulations were carried out over several months, as well as countless material properties studies and manufacturer discussions. In the end my design was accepted and the project went ahead.   |<a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#safety-mechanism'>***Safety Mechanism*** </a> |
 	* During all of my software projects I have had to deploy my attention to detail when debugging my code. It has proved absolutely fundamental in progressing my work and continues to get better with practice. During one painful example of this it took me many hours to realise my "initialize" command was spelt "initialise" causing the app to fail with no indication this was the problem. Nevertheless I prevailed and also learned how to correctly spell initialize.  
 
 ## Work Experience
@@ -48,23 +48,18 @@ Problem solving is what I love and do best and as an engineer I honed this skill
 > ### **Servo test Testing Systems LTD** (March 2020 to January 2021) 
 > _Mechanical Design Engineer_ 
 > #### Relevant Skills:
-> - ****Design as part of a team**** -  As the designs for the products were undergoing frequent revisions so too was the saftey mechanism I was designing. I was required to work closely with the team during the design of this building sized machine. Ensuring every members work functioned together properly.| <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#safety-mechanism'>***safety mechanism*** </a> |
-> - ****Solo Design**** - An example of a fully independant project, where I determined the requirements, designed a product and had it made succesfully | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#safety-enclosure'> ***safetey enclosure*** </a> |
-> - Research | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#contamination-study'>***contamination study*** </a> |
-> - Design to Standards 
-> - Test Driven Design | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#banjo-bolt'> ***banjo bolt*** </a> | 
+> - ****Design as part of a team**** -  As the designs for the products were undergoing frequent revisions so too was the saftey mechanism I was designing. I was required to work closely with the team during the design of this building sized machine. Ensuring every members work functioned together properly.| <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#safety-mechanism'>***Safety Mechanism*** </a> |
+> - ****Solo Design**** - Designing a safety enclosure for a machine wan an example of a fully independant project, where I determined the requirements, designed the product and had it made succesfully | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#safety-enclosure'> ***Safetey Enclosure*** </a> |
+> - ****Research**** - One of the many research tasks I undertook involved learning the capabilities and limitations of electron microscopes - and what they could tell me about a mysterious powder | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#contamination-study'>***Contamination Study*** </a> |
+> - ****Test Driven Design**** - This work involved using simulations and mechanical tests to determine the optimum replacement bolt size and tightening torque | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#banjo-bolt'> ***Banjo Bolt*** </a> | 
 
 > ### **Overview LTD** (November 2018 to March 2020) 
 > _Mechanical Design Engineer_ 
 > #### Relevant Skills 
-> - Creativity
-> - Product Management 
-> - Design as part of a team 
-> - Solo Design  | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#motor-test-rig'> ***motor test rig*** </a> |
-> - Agile Design
-> - Making of business cases for new technology purchases | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#3d-printing'> ***3d Printer*** </a> | 
-> - Matlab 
-> - Design to Standards 
+> - ****Creativity**** - 
+> - ****Product Management****  - With product components in the thousands and frequent design revisions, managing product data was a daily requirement in my work. I also assisted in the implementation of the new product data management software, <a href='https://www.priority-software.com/'> priority </a>.
+> - ****Agile Design****
+> - ****Matlab**** 
 
 ## Education
 #### Makers Academy (February2021 to April 2021)
