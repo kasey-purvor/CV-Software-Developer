@@ -129,7 +129,7 @@ This was my first employment after graduating. The company make motion platforms
 ### 3D Printing
 > During my time at Overview I was tasked with making a business case for a 3D printer. The company 
 > relied heavily on prototypes which often took weeks to make. With a printer we could make prototypes
-> within hours which brought with it countless benifits. 
+> within hours which brought with it countless benifits. Most critical of all, it allowed us to adapt a highly agile design practice. 
 > It was an easy sell, and once acquired the uses for it increased rapidly. As I kept up to date with 
 > additive manufacturing tech and was trained on the machine, I became the first stop for anyone 
 > needing something designed & printed. I also used it in many 
