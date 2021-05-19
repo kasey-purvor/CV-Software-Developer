@@ -7,7 +7,7 @@
 
 
 
-As a young child I was fascinated by technology and science. Aged 9 I had a PC that was too slow to play the games I had. I found myself learning everything I could about computer hardware. Obsessed with specs, I knew every hardware initialism on the market. Eventually I was allowed to build a computer from scratch for my gaming exploits. It was probably one of the first SLI dual GPU machines around and I still have it now, 15 years on. 
+As a young child I was fascinated by technology and science. Aged 10 I had a PC that was too slow to play the games I had. I found myself learning everything I could about computer hardware. Obsessed with specs, I knew every hardware initialism on the market. Eventually I was allowed to build a computer from scratch for my gaming exploits. It was probably one of the first SLI dual GPU machines around and I still have it now, 15 years on. 
 
 At school my love of physics and astronomy led me to applied physics and onto engineering at University. Fascinated by the technical subjects, by the time I graduated I knew little about the industry & work culture I was to join. I had all the technical knowledge and no clue what to expect. 
 
@@ -61,7 +61,7 @@ Problem solving is what I love and do best and as an engineer I honed this skill
 > - ****Creativity**** - A new motor with a adhesive join needed testing to ensure it would not detach while loaded with its 20kg CCTV camera. I designed a one off test rig to mimmick the load of the camera while the motor could still operate | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#motor-test-rig'> ***Motor Test Rig*** </a> |
 > - ****Product Management****  - With product components in the thousands and frequent design revisions, managing product data was a daily requirement in my work. I also assisted in the implementation of the new product data management software, <a href='https://www.priority-software.com/'> priority </a>.
 > - ****Agile Design**** - I was also fundamental in acquiring a 3D printer for rapid prototyping. This was a huge leap forward in terms of agile design practice for me. With it we could prototype in a fraction of the original time, receive customer feedback much more frequently and iterate as much as we required. | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#3d-printer'> ***3D Printer*** </a> |
-> - ****Matlab****  - Whe analysing the performance data of our motors I would use matlab to manipulate and display the data. Thsi was my first professional use of software. 
+> - ****Matlab****  - Whe analysing the performance data of our motors I would use matlab to manipulate and display the data. This was my first professional use of software. 
 
 ## Education
 #### Makers Academy (February2021 to April 2021)
@@ -88,7 +88,7 @@ Technologies & Frameworks Experience:
 
 ## Interests
 
-- Computers! Originally spurred on simply by having a PC too slow to play the games I had. I found myself learning everything I could about computer hardware. Obsessed with specs, I knew every hardware initialism on the market. Eventually after years of nagging/begging I was allowed to build my own computer from scratch for my gaming exploits. It was probably one of the first SLI dual GPU machines around and I still have it now, 15 years on.
+- Technology. Since building my own PC at a youing age, I have stayed firmly entrenched in technology world. Whether it be gadgets, chip-making, screen technology, home appliances, batteries, amplifiers, speakers or just about anything that uses electircity - I will have spent hours learning about the technology and continue to read the latest news. 
 
 - Mountain Sports. I began attending Scouts from age 9 and finished at 16. In that time, I had the privilege of
  accompanying my scout troop on countless trips and expeditions domestically and internationally; to places
