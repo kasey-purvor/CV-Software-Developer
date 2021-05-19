@@ -45,8 +45,9 @@ Problem solving is what I love and do best and as an engineer I honed this skill
 ## Work Experience
 ***(Mechanical Engineer)*** __portfolio link here__
 
-> ### **Servo test Testing Systems LTD** (March 2020 to January 2021) 
-> _Mechanical Design Engineer_ 
+> ### **Servotest Testing Systems LTD**  (March 2020 to January 2021) 
+> ***Hydraulic Equipment Manufacturer***   
+> [_Mechanical Design Engineer_]
 > #### Relevant Skills:
 > - ****Design as part of a team**** -  As the designs for the products were undergoing frequent revisions so too was the saftey mechanism I was designing. I was required to work closely with the team during the design of this building sized machine. Ensuring every members work functioned together properly.| <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#safety-mechanism'>***Safety Mechanism*** </a> |
 > - ****Solo Design**** - Designing a safety enclosure for a machine wan an example of a fully independant project, where I determined the requirements, designed the product and had it made succesfully | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#safety-enclosure'> ***Safetey Enclosure*** </a> |
@@ -54,12 +55,13 @@ Problem solving is what I love and do best and as an engineer I honed this skill
 > - ****Test Driven Design**** - This work involved using simulations and mechanical tests to determine the optimum replacement bolt size and tightening torque | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#banjo-bolt'> ***Banjo Bolt*** </a> | 
 
 > ### **Overview LTD** (November 2018 to March 2020) 
-> _Mechanical Design Engineer_ 
+> ***Electric Motor Manufacturer***   
+> [_Mechanical Design Engineer_] 
 > #### Relevant Skills 
-> - ****Creativity**** - 
+> - ****Creativity**** - A new motor with a adhesive join needed testing to ensure it would not detach while loaded with its 20kg CCTV camera. I designed a one off test rig to mimmick the load of the camera while the motor could still operate | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#motor-test-rig'> ***Motor Test Rig*** </a> |
 > - ****Product Management****  - With product components in the thousands and frequent design revisions, managing product data was a daily requirement in my work. I also assisted in the implementation of the new product data management software, <a href='https://www.priority-software.com/'> priority </a>.
-> - ****Agile Design****
-> - ****Matlab**** 
+> - ****Agile Design**** - I was also fundamental in acquiring a 3D printer for rapid prototyping. This was a huge leap forward in terms of agile design practice for me. With it we could prototype in a fraction of the original time, receive customer feedback much more frequently and iterate as much as we required. | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#3d-printer'> ***3D Printer*** </a> |
+> - ****Matlab****  - Whe analysing the performance data of our motors I would use matlab to manipulate and display the data. Thsi was my first professional use of software. 
 
 ## Education
 #### Makers Academy (February2021 to April 2021)
