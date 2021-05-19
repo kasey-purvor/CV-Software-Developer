@@ -36,7 +36,7 @@ Problem solving is what I love and do best and as an engineer I honed this skill
 - **Adaptable** 
 	* Whether tackling new concepts or familiar problems, I approach everything with the same pragmatism and logic seen throughout my career. In one unconventional project I was tasked with identifying the source of contamination in a products hydraulic oil. It required me to learn a great deal about microscopy, elemental compositions and other unfamiliar concepts. Ending in a hiring an electron microscope at Surrey University. In the end I identified the contaminant to be Aluminium Oxide, a common manufacturing grit. | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#contamination-study'> ***Contamination Study***  </a> |
  - **Team Player** 
-	* During the many group software projects I completed at Makers team-working was vital. Knowing when to take a leadership role, be a motivator or to just ensuring I pulled my weight. In one instance, when dissonance grew between members of my group. I had to deploy the diplomacy I learned through my experiences to prevent passive aggression turing active and to see the project over the line. 
+	* During the many group software projects I completed at Makers team-working was vital. Knowing when to take a leadership role, be a motivator or to just ensuring I pulled my weight. In one instance, when dissonance grew between members of my group. I had to deploy the conflict management I learned through my experiences to prevent passive aggression turing active and to see the project over the line. 
 	* At university I undertook a highly challenging project involving the research, design and building of a plasma surface modification device that have never been done before. An enormous amount of research was performed, and due to delays in acquiring the expensive hardware required, we had to design everything without the ability to test until the last weeks of term. The project tested our team-working ability almost to breaking point at times, and was a fantastic experience to be a part of a truly cutting edge and novel experience - which succesfully acheived the project goals.|<a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#university-group-project'>***University Group Project*** </a>|
  - **Attention To Detail** 
 	* Having worked in an industry where products are designed to within 1/1000th of millimeter, an eye for details is a core attirbute of mine. During the design of a geared safety mechanism that had to allow movement without breaking. I was tasked with determining the optimal profile and size of the gears. Many thousands of simulations were carried out over several months, as well as countless material properties studies and manufacturer discussions. In the end my design was accepted and the project went ahead.   |<a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#safety-mechanism'>***Safety Mechanism*** </a> |
@@ -55,7 +55,7 @@ Problem solving is what I love and do best and as an engineer I honed this skill
 > - ****Test Driven Design**** - This work involved using simulations and mechanical tests to determine the optimum replacement bolt size and tightening torque | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#banjo-bolt'> ***Banjo Bolt*** </a> | 
 
 > ### **Overview LTD** (November 2018 to March 2020) 
-> ***Electric Motor Manufacturer***   
+> ***Electronic Motor Manufacturer***   
 > [_Mechanical Design Engineer_] 
 > #### Relevant Skills 
 > - ****Creativity**** - A new motor with a adhesive join needed testing to ensure it would not detach while loaded with its 20kg CCTV camera. I designed a one off test rig to mimmick the load of the camera while the motor could still operate | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#motor-test-rig'> ***Motor Test Rig*** </a> |
@@ -64,26 +64,17 @@ Problem solving is what I love and do best and as an engineer I honed this skill
 > - ****Matlab****  - Whe analysing the performance data of our motors I would use matlab to manipulate and display the data. This was my first professional use of software. 
 
 ## Education
-#### Makers Academy (February2021 to April 2021)
+> #### Makers Academy (February2021 to April 2021)
+> - Over the 4 month coding course I was exposed to fundamental coding practices while learning a variety of different technologiues and frameworks. The course had a strong focus on TDD/DBB and best coding practice, while teaching me to teach myself - I learned how to build full stack Ruby & Javascript applications. 
+> - Every afternoon for 8 weeks I would pair program with a randomly selected person over zoom. This was a highly useful experience requiring interpersonal skills and drive. 
+> - The numerous group projects required us to frequently learn new technologies, languages and frameworks - each time with a new team. This was a great test of my collaborative skills and called upon my desire to learn, perseverance and problem solving. 
+> - Already isolated during lockdown, the significant amount of zoom communication proved to be a challenge of its own at times.  It required everyone involved to be patient and diplmatic to avoid conflicts. As well as have a strong motivation to continue during times of mental fatigue. 
 
-Software Languages:
-- Ruby 
-- Javascript
-- SQL 
 
-Technologies & Frameworks Experience: 
-- Ruby on Rails 
-- RSPEC
-- Sinatra
-- PostgreSQL 
-- MERN Stack
-- Jasmine
-- REACT Native 
+> #### University of Nottingham (September 2014 - July 2018)
 
-#### University of Nottingham (September 2014 - July 2018)
-
-- Mechanical Engineering Integrated Masters (MEng) 2:1 
-- Specialisms in Glass viscometry, Heat-Transfer Thermodynamics, Polymer Engineering and Sustainable Energy Efficiency.  
+> - Mechanical Engineering Integrated Masters (MEng) 2:1 
+> - Specialisms in Glass viscometry, Heat-Transfer Thermodynamics, Polymer Engineering and Sustainable Energy Efficiency.  
 
 
 ## Interests
