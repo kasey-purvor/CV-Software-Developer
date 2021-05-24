@@ -43,7 +43,7 @@ Problem solving is what I love and do best and as an engineer I honed this skill
 	* During all of my software projects I have had to deploy my attention to detail when debugging my code. It has proved absolutely fundamental in progressing my work and continues to get better with practice. During one painful example of this it took me many hours to realise my "initialize" command was spelt "initialise" causing the app to fail with no indication this was the problem. Nevertheless I prevailed and also learned how to correctly spell initialize.  
 
 ## Work Experience
-***(Mechanical Engineer)*** __portfolio link here__
+***(Mechanical Engineer)*** |<a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md'> __portfolio link here__ </a>
 
 > ### **Servotest Testing Systems LTD**  (March 2020 to January 2021) 
 > ***Hydraulic Equipment Manufacturer***   
