@@ -21,7 +21,6 @@ Problem solving is what I love and do best and as an engineer I honed this skill
 | <a href='https://github.com/kasey-purvor/bank-app-tech-test'> **Bank App** </a>| Tech Test | Simple command line program that mimics a bank account. Allows deposits, withdrawals, overdrafts and statements | Ruby, Rspec |  
 | <a href='https://github.com/kasey-purvor/Grappitude'> **Grappitude** </a> | Group Project | Phone based wellbeing app that rewards users for journaling thoughts, provides motivational quotes and monitors progress | Java-Script MongoDB, React-Native, Express, Node.js, Expo, Jest |   
 | <a href='https://github.com/ianmcnicholas/acebook-team.1'> **Acebook** </a> | Group Project | Heroku Deployed web-app that copies some of the core functionality of facebook. Full CRUD functionality for posts and respective comments, plus user sessions/database | Ruby-On-Rails, Rspec, SQLite3, Capybara, CircleCI, Heroku, Devise |   
-| <a href='https://github.com/kasey-purvor/chitter-challenge'> **Chitter** </a> | Solo Project | My first web app project that allows users to create accounts and post to a public feed | Ruby, RSpec, Sinatra, PostgreSQL, Capybara|   
 | <a href='https://github.com/kasey-purvor/bowling-challenge-web_app'> **Bowling Score App** <a/>| Solo Project | Web app that keeps track of a players bowling scores, applying strike & split score bonuses | Java-Script, Ruby, RSpec, JQuery, Sinatra, Capybara |
 
 
