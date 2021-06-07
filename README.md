@@ -6,9 +6,9 @@
 [Software Projects](#software-projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Interests](#interests) | 
 
 ## Profile
-At school my love of science led me to mechanical engineering at University. I was fascinated by computers and other machines. I still experience the same sense of wonder thinking of the stunning accomplishments of their inner workings. This adoration of all things technical has spilled into every aspect of my life. Naturally, problem solving is what I love and do best and as an engineer I honed this skill; as well as practicing creativity, product management and communication.
+At school my love of science led me to mechanical engineering at University. I was fascinated by computers and other machines. I still experience the same sense of wonder thinking of the stunning accomplishments of their inner workings. This adoration of all things technical has spilled into every aspect of my life. Naturally, **problem solving** is what I love and do best and as an engineer I honed this skill; as well as practicing **creativity, product management and communication**.
 
-As somebody to thrives in technical challenges, the ability to call upon a broad range of knowledge to solve a problems is hugely rewarding. Seeing the end product, the sense of achievement I feel is enormous. In this sense there are many similarities between tech and mechanical engineering - and I therefore have many transferable skills such as collaboration, adaptability and an eye for detail. However, recently, my excitement for tech only seems to grow as I learn. In particular the comparatively small capital investment needed, the huge & growing applicability of tech, the young & dynamic work environments and the frontier like nature of the industry. Driven by a desire to be challenged and rewarded in a flexible work environment, I find myself looking to make the move into tech - I am certain this is an amazingly positive step in my life.
+As somebody to thrives in technical challenges, the ability to call upon a broad range of knowledge to solve a problems is hugely rewarding. Seeing the end product, the sense of achievement I feel is enormous. In this sense there are many similarities between tech and mechanical engineering - and I therefore have many transferable skills such as **collaboration, adaptability** and an **eye for detail**. However, recently, my excitement for tech only seems to grow as I learn. In particular the comparatively small capital investment needed, the huge & growing applicability of tech, the young & dynamic work environments and the frontier like nature of the industry. Driven by a desire to be challenged and rewarded in a flexible work environment, I find myself looking to make the move into tech - I am certain this is an amazingly positive step in my life.
 
 
 ## Software Projects
@@ -25,15 +25,15 @@ As somebody to thrives in technical challenges, the ability to call upon a broad
 ## Skills
 
 
-- **Self Starter**  
-	* Starting a new engineering role, due to lockdown I was unable to be trained and therefore unable to design the heavily regulated products. I was given a two-part new problem that did not require training. The company was so impressed that six months on I had carved myself a new role where I dealt with novel problems(where nobody had any experience) without guidance, performing research into many new concepts I proved myself invaluable. This required me to be **creative**, **resilient** and **dependable**.     
+- **Self Starter/Problem Solving**  
+	* Starting a new engineering role, due to lockdown I was unable to be trained and therefore unable to design the heavily regulated products. I was given a two-part new problem that did not require training. The company was so impressed that six months on I had carved myself a new role where I dealt with novel problems(where nobody had any experience) without guidance, performing research into many new concepts I proved myself invaluable. This required me to be **creative**, **resilient**, a **fast learner** and **dependable**.     
 	|<a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#ballistic-screens'> ***Ballistic-screens*** </a> | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#banjo-bolt'> ***Banjo Bolt*** </a> |   
 	* During my time at Makers Academy, I found myself on a project using the MERN stack. With my previous experience in Ruby, fairly new to Javascript and completely new to MongoDB, React and Node.js, I had to apply my self-starting ability to create a graphical progress bar that filled up when users input their thoughts. Navigating numerous blockers along the way I succeeded, setting up and working on many other features of the app too. | <a href='https://github.com/kasey-purvor/Grappitude'> **Grappitude** </a> |   
 	
 - **Adaptable** 
 	* In one unconventional project I was tasked with identifying the source of contamination in a products hydraulic oil. It required me to learn a great deal about microscopy, elemental compositions and other unfamiliar concepts. Ending in a hiring an electron microscope at Surrey University. In the end I identified the contaminant to be Aluminium Oxide, a common manufacturing grit. | <a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#contamination-study'> ***Contamination Study***  </a> |
  - **Team Player** 
-	* During the many group software projects I completed at Makers team-working was vital. Knowing when to take a leadership role, be a motivator or to just ensuring I pulled my weight. In one instance, when dissonance grew between members of my group. I had to deploy my conflict management experience to prevent passive aggression  excalating to see the project over the line. 
+	* During the many group software projects I completed at Makers team-working was vital. Knowing when to take a leadership role, be a motivator or to just ensuring I pulled my weight. In one instance, when dissonance grew between members of my group. I had to deploy my emotional intelligence and conflict management experience to prevent passive aggression  excalating to see the project over the line. 
 	* At university I undertook a highly challenging project involving the research, design and building of a plasma surface modification device that have never been done before. An enormous amount of research was performed, and due to delays in acquiring the expensive hardware required, we had to design everything without the ability to test until the last weeks of term. The project tested our team-working ability almost to breaking point at times, and was a fantastic experience to be a part of a truly cutting edge and novel experience - which successfully achieved the project goals. |<a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#university-group-project'>***University Group Project*** </a>|
  - **Attention To Detail** 
 	* Having worked in an industry where products are designed to within 1/1000th of millimetre, an eye for details is a core attribute of mine. During the design of a geared safety mechanism that had to allow movement without breaking. I was tasked with determining the optimal profile and size of the gears. Many thousands of simulations were carried out over several months, as well as countless material properties studies and manufacturer discussions. In the end my design was accepted and the project went ahead.   |<a href='https://github.com/kasey-purvor/CV-Software-Developer/blob/main/engineering_portfolio.md#safety-mechanism'>***Safety Mechanism*** </a> |
@@ -81,20 +81,13 @@ As somebody to thrives in technical challenges, the ability to call upon a broad
 - Mountain Sports. I began attending Scouts from age 9 and finished at 16. In that time, I had the privilege of
  accompanying my scout troop on countless trips and expeditions domestically and internationally; to places
  such as Wales, Canada, Switzerland, Norway and the USA. The highlight of which, in 2008, was a month-long
- trip to Alaska involving a week-long expedition up mount Flower, an equally long canoeing trip down the
- Matanuska River and numerous other excursions partaking in outdoors activities. The whole experience
- provided invaluable team working, resilience and survival experience which was influential on me from a
+ trip to Alaska. The whole experience provided invaluable **team working, resilience** and survival experience which was influential on me from a
  young age.
 
 - I am hugely interested in Physics and Astronomy. Since a young age I was always inquisitive about the nature
  of things; I became absolutely fascinated with physics, which was pivotal in my progression towards
  engineering. I have read some of the most popular, and some more niche, books spanning space, astronomy
  and theoretical & particle physics.
-
-- I am an avid mountain biker. I am out riding my bike almost every weekend.
-
-- Rugby is a sport in which I am very passionate. Having played from ages 7 to 20, for Sunday Club, school and
- University, I follow most international & top league fixtures and regularly attend games at Twickenham.
 
 - Music has always been something I am very passionate about. I began playing the piano aged 7 and finished
  my grade 7 exams aged 17. Aside from playing music, I regularly attend music festivals and gigs with my friends.
