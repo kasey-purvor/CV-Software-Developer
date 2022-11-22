@@ -1,14 +1,13 @@
 # Kasey Purvor 
- ***Mechanical Engineer Highly Motivated to Move into Tech***    
+ ***Mechanical Engineer Turned Software Developer***    
     
 | Email: kasey.purvor@gmail.com | Phone: 07736 300 602 | <a href='https://www.linkedin.com/in/kasey-purvor' > Linkedin </a> | <a href='https://www.codewars.com/users/kasey-purvor'> Codewars </a> | 
  ___
 [Software Projects](#software-projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Interests](#interests) | 
 
 ## Profile
-At school my love of science led me to mechanical engineering at University. I was fascinated by computers and other machines. I still experience the same sense of wonder thinking of the stunning accomplishments of their inner workings. This adoration of all things technical has spilled into every aspect of my life. Naturally, **problem solving** is what I love and do best and as an engineer I honed this skill; as well as practicing **creativity, product management and communication**.
-
-As somebody to thrives in technical challenges, the ability to call upon a broad range of knowledge to solve a problems is hugely rewarding. Seeing the end product, the sense of achievement I feel is enormous. In this sense there are many similarities between tech and mechanical engineering - and I therefore have many transferable skills such as **collaboration, adaptability** and an **eye for detail**. However, recently, my excitement for tech only seems to grow as I learn. In particular the comparatively small capital investment needed, the huge & growing applicability of tech, the young & dynamic work environments and the frontier like nature of the industry. Driven by a desire to be challenged and rewarded in a flexible work environment, I find myself looking to make the move into tech - I am certain this is an amazingly positive step in my life.
+At school my love of science led me to mechanical engineering at University. I was fascinated by computers and other machines. This love of all things technical has spilled into every aspect of my life. Naturally, **problem solving** is what I love and do best and as an engineer I honed this skill.
+Driven by a desire to be challenged and rewarded in a flexible work environment, I found myself looking to make the move into tech. Since landing my first role I have not looked back - thriving whilst enjoying the challenges and rewards that the field offers. 
 
 
 ## Software Projects
